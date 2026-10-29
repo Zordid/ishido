@@ -1,0 +1,15 @@
+# Keep files exactly as committed: the sources use CRLF line endings.
+* -text
+
+*.PAS linguist-language=Pascal
+
+# Binaries
+*.EXE binary
+*.DLL binary
+*.HLP binary
+*.RES binary
+*.BMP binary
+*.DOC binary
+*.mp4 binary
+*.gif binary
+*.png binary

@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 1993-1995, 2026 Olaf Gottschalk
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+This license covers my own work in this repository: Ishido for Windows
+(1993-1995) and what I added in 2026 (the tools, the documentation, the
+screenshots and recordings). It does not cover:
+
+- release/BWCC.DLL (also the 1995 version used for the recordings, which is
+  not in the repository): Borland's Windows Custom Controls library,
+  (c) Borland International.
+- source/ISHIDO.PAS: the program skeleton of an article in the magazine
+  WinDOS, on which I built the first version in 1993. I do not remember
+  the article, I could not find it, and I do not know how much of its code
+  or its ideas are left; if any, they remain with their author or
+  publisher.
+- release/ISHIDO.EXE contains the run-time library and ObjectWindows of
+  Borland Pascal, (c) Borland International.
+- source/WINDOS.BMP: the logo of the magazine WinDOS.
+- source/STONES.BMP and the same sheet inside source/ISHIDO.RES: the 36
+  stone pictures. I do not remember who drew them; they may not be my own
+  work. The logo and the banner (also in ISHIDO.RES) are mine.
+
+The game Ishido was designed by Michael Feinberg and published by
+Accolade; this is an unofficial version. The names of the games, magazines
+and products mentioned belong to their respective owners.
